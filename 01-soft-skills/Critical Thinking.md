@@ -1,3 +1,7 @@
 # Critical Thinking
-I learned how to analyze problems and make better decisions.
-It helps in problem-solving and understanding complex situations.
+
+## What I learned
+Critical thinking helps me analyze problems and make better decisions.
+
+## USE
+I used it when breaking down tasks during team work.
